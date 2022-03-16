@@ -9,3 +9,6 @@
 ## Questions to answer
 
 ## Communication protocols
+
+## Appendix
+* https://webtuu.com/blog/04/git-basics-branching-merging-push-to-github
